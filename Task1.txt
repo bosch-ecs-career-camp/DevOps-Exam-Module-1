@@ -1,1 +1,16 @@
 # Python
+
+create class for carshop {Brand, purchase date, price} and calculate porfit for this shop for given month. 
+- Input file with Brand, purchase date and price have to be provided. (hint: use datetime() function for the date)
+[
+	{
+		"Brand": "" 
+		"price": 
+		"date": "yyyy-mm-dd"
+	}, 
+	{
+		"Brand": "" 
+		"price": 
+		"date": "yyyy-mm-dd"
+	}
+]
