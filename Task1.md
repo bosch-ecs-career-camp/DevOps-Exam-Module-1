@@ -20,7 +20,6 @@ carA - ("BMW 320",carA_sale_date, "50000")
 
 2. The second sale was a BMW 330 vehicle saled on the 10th day of month 3(March) with a price tag of 60000.
 ```
-The second sale was a BMW 330 vehicle saled on the 10th day of month 3(March) with a price tag of 60000.
 carB_sale_date = dt.datetime(2022,3,10)
 carB - ("BMW 330",carB_sale_date, "60000")
 ```
