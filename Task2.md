@@ -22,12 +22,12 @@ Based on the program created in [task1](./Task1.md) we can now think for creatio
 - Job2: [Run Python Execution]
 	* Execute the python script developed in task1 and save the output to a file.
 - Job3: [Archive Python Artifacts]
-- 	* Archive the file Generated in Job2
+	* Archive the file Generated in Job2
 - Job4: [Development Information]
  	* Display the following information for the current running workflow directly in the logs.
-		"actor",
-		"triggering_actor",
-		"head_ref",
-		"os",
-		"arch",
-		"workspace"
+	- "actor",
+	- "triggering_actor",
+	- "head_ref",
+	- "os",
+	- "arch",
+	- "workspace"
