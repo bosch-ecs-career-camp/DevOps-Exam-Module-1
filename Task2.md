@@ -24,7 +24,7 @@ Based on the program created in [task1](./Task1.md) we can now think for creatio
 - Job2: [Run Python Execution]
 	* Execute the python script developed in task1 by providing the manual choice input created earlier as an argument to the python script.
 - Job3: [Archive Python Artifacts]
-	* Archive the file Generated in Job2 after a successful execution of the python program.
+	* Archive the outputed file Generated in Job2 after a successful execution of the python program. ("profit.txt")
 - Job4: [Development Information]
  	* Display the following information for the current running workflow directly in the console or in a file named log_file.log created in the default workspace.
 	- "actor",
