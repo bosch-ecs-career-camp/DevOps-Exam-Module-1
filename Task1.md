@@ -10,7 +10,7 @@
 
 - For Example:
 
-** The Company saled 3 cars through 2022 year. **
+> The Company saled 3 cars through 2022 year.
 
 1. The first sale was a BMW 320 vehicle saled on the 1st day of month 3(March) with a price tag of 50000.
 ```
