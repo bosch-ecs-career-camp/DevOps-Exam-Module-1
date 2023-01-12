@@ -12,13 +12,13 @@ A small local buisness is selling cars in the town. They came to us with a requi
 
 3. Please create objects for the following sales over the year 2022.
 
-- The 1 sale was a BMW 320 vehicle saled on the 1 day of month 3(March) with a price tag of 50000.
-- The 2 sale was a BMW 330 vehicle saled on the 10 day of month 3(March) with a price tag of 60000.
-- The 3 sale was an Audi A4 vehicle saled on the 2 day of month 4(April) with a price tag of 70000.
-- The 4 sale was an Audi A5 vehicle saled on the 5 day of month 7(July) with a price tag of 75000.
-- The 5 sale was an Audi A6 vehicle saled on the 7 day of month 7(July) with a price tag of 90000.
-- The 6 sale was an Audi A7 vehicle saled on the 12 day of month 8(August) with a price tag of 120000.
-- The 7 sale was an Mercedes CLS vehicle saled on the 2nd day of month 9(September) with a price tag of 150000.
+- The sale with id 1 was a BMW 320 vehicle saled on the 1 day of month 3(March) with a price tag of 50000.
+- The sale with id 2 was a BMW 330 vehicle saled on the 10 day of month 3(March) with a price tag of 60000.
+- The sale with id 3 was an Audi A4 vehicle saled on the 2 day of month 4(April) with a price tag of 70000.
+- The sale with id 4 was an Audi A5 vehicle saled on the 5 day of month 7(July) with a price tag of 75000.
+- The sale with id 5 was an Audi A6 vehicle saled on the 7 day of month 7(July) with a price tag of 90000.
+- The sale with id 6 was an Audi A7 vehicle saled on the 12 day of month 8(August) with a price tag of 120000.
+- The sale with id 7 was an Mercedes CLS vehicle saled on the 2nd day of month 9(September) with a price tag of 150000.
 
 4. Then the Result of the calculating function should result in 110000 if month 3(March) is given or 70000 if the given month was 4(April).
 
