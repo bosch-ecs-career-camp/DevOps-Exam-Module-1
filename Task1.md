@@ -7,11 +7,9 @@ A small local buisness is selling cars in the town. They came to us with a requi
  - Purchase date: (hint: use datetime() function for the date)
  - Price of the sold car: ("Int")
  
-2. Then there should be a a class method which is calcucalting the profit for a given month.
+2. Then there should be a class method which is calcucalting the profit for a given month.
 
-- For Example:
-
-> The Company saled 3 cars through 2022 year.
+- For Example **The Company sold 3 cars for year 2022.**
 
 - The first sale was a BMW 320 vehicle saled on the 1st day of month 3(March) with a price tag of 50000.
 ```
