@@ -10,7 +10,7 @@ A small local buisness is selling cars in the town. They came to us with a requi
  
 2. Then there should be a class method which is calcucalting the profit for each month during the year and possibility to print to a file the profit for a given month.
 
-3. Please create objects for the following sales:
+3. Please create objects for the following sales over the year 2022.
 
 - The 1 sale was a BMW 320 vehicle saled on the 1 day of month 3(March) with a price tag of 50000.
 - The 2 sale was a BMW 330 vehicle saled on the 10 day of month 3(March) with a price tag of 60000.
