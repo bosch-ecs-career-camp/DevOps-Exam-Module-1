@@ -1,9 +1,9 @@
 # Pipeline
 
-> Please continue with this current task only after [task1](./Task1.txt) is finished.
+> Please continue with this current task only after [task1](./Task1.md) is finished.
 
 ## As a bosch ultimate goal, we are aiming to improve our customer products. Thats why we want to improve the program delivery to our client from the Carshop.
-### Based on the program created in [task1](./Task1.txt) we can now think for creation of a CI solution with Github Workflows.
+### Based on the program created in [task1](./Task1.md) we can now think for creation of a CI solution with Github Workflows.
 
 1. Our furthure task is to create a pipeline with the name "Execution" which is running only on a Pull Request.
 2. The Pipeline can work on both Linux & Windows, the chose is yours.
