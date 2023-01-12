@@ -23,6 +23,14 @@ A small local buisness is selling cars in the town. They came to us with a requi
 4. Then the Result of the calculating functiong should result in 110000 if month 3(March) is given or 70000 if the given month was 4(April).
 
 - calc_profit(3) -> 110000
+
+5. The Program should be able to accept arguemnts from the command line ( Providing the month as a number in order to get the profit for a given month)
+
+```python
+python main.py --month 3
+
+Output:
+For month 3(March): The profit of the CarShop is 110000
 - ls: -> profit_file.txt
-- cat profit_file.txt -> 110000
-- 
+- cat profit_file.txt -> For month 3(March): The profit of the CarShop is 110000
+```
