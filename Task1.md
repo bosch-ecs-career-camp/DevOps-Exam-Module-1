@@ -31,6 +31,6 @@ python main.py --month 3
 
 Output:
 For month 3(March): The profit of the CarShop is 110000
-- ls: -> profit_file.txt
+- ls: -> profit.txt
 - cat profit_file.txt -> For month 3(March): The profit of the CarShop is 110000
 ```
