@@ -16,6 +16,15 @@ A small local buisness is selling cars in the town. They came to us with a requi
 3. Please create objects for the following sales over the year 2022.
 
 - The sale with id 1 was a BMW 320 vehicle saled on day 1 of month 3(March) with a price tag of 50000.
+```
+{
+  "id": "1",
+  "Brand": "BMW320",
+  "PurchaseDate": "2022/3/1",
+  "Price": "50000"
+}
+```
+
 - The sale with id 2 was a BMW 330 vehicle saled on day 10 of month 3(March) with a price tag of 60000.
 - The sale with id 3 was an Audi A4 vehicle saled on day 2 of month 4(April) with a price tag of 70000.
 - The sale with id 4 was an Audi A5 vehicle saled on day 5 of month 7(July) with a price tag of 75000.
