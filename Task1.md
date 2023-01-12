@@ -2,11 +2,14 @@
 
 A small local buisness is selling cars in the town. They came to us with a requirement for a Python program which can calculate their profit for given month.
 
-1. Please create class for a CarShop where you can create a car object with the following properties:
- - Id                       "The id represents the number of sale, for example '1' "
- - Brand                    "The Brand represents the Car Model Name, for example 'BMW 320' "
- - PurchaseDate             "The purchase date represents the date when the car is sold, for example '2022/3/1'"
- - Price                    "The price of the sold car, for example '50000' "
+1. Please create a python class for a CarShop where you can create a car object with the following properties:
+
+| Property | Description |
+| ----------- | ----------- |
+| Id  | The id represents the number of sale, for example '1'  |
+| Brand | The Brand represents the Car Model Name, for example 'BMW 320' |
+| PurchaseDate  | The purchase date represents the date when the car is sold, for example '2022/3/1'  |
+| Price | The price of the sold car, for example '50000' |
  
 2. Then there should be a class method which is calcucalting the profit for each month during the year and possibility to print to a file the profit for a given month.
 
