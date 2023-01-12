@@ -1,4 +1,4 @@
-# Python Task
+# Task1 - Python
 
 ## A small local buisness is selling cars in the town. They came to us with a requirement for a Python program which can calculate their profit for given month.
 ## Please create class for a Carshop where you can create a car object with the following properties:
