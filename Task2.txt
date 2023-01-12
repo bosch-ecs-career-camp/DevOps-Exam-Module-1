@@ -1,1 +1,12 @@
+# Pipeline
 
+Pipeline/Git
+ - checkout/build/archive artifacts of simple open source project(Filezilla client, gzip, etc. or just empty project).
+ - return github key->values with restapi:
+	"actor",
+	"triggering_actor",
+	"triggering_actor"->"action",
+	"head_ref",
+	"os",
+	"arch",
+	"workspace"
