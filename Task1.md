@@ -26,7 +26,7 @@ A small local buisness is selling cars in the town. They came to us with a requi
 
 5. The Program should be able to accept arguemnts from the command line ( Providing the month as a number in order to get the profit for a given month)
 
-```python
+```sh
 python main.py --month 3
 
 Output:
