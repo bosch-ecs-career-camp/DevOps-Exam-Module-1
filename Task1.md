@@ -2,7 +2,7 @@
 
 A small local buisness is selling cars in the town. They came to us with a requirement for a Python program which can calculate their profit for given month.
 
-1. Please create class for a Car where you can create a car object with the following properties:
+1. Please create class for a CarShop where you can create a car object with the following properties:
  - Id                       "The id represents the number of sale, for example '1' "
  - Brand                    "The Brand represents the Car Model Name, for example 'BMW 320' "
  - PurchaseDate             "The purchase date represents the date when the car is sold, for example '2022/3/1'"
