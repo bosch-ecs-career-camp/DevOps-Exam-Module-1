@@ -1,4 +1,4 @@
-# Task2 - Pipeline Design Implementation
+# Task2 - GitHub Workflow design and implementation
 
 > Please continue with this current task only after [task1](./Task1.md) is finished.
 
