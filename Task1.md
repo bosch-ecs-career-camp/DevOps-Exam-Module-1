@@ -26,11 +26,24 @@ A small local buisness is selling cars in the town. They came to us with a requi
 ```
 
 - The sale with id 2 was a BMW 330 vehicle saled on day 10 of month 3(March) with a price tag of 60000.
+```
+{
+  "id": "2",
+  "Brand": "BMW330",
+  "PurchaseDate": "2022/3/10",
+  "Price": "60000"
+}
+```
+
 - The sale with id 3 was an Audi A4 vehicle saled on day 2 of month 4(April) with a price tag of 70000.
-- The sale with id 4 was an Audi A5 vehicle saled on day 5 of month 7(July) with a price tag of 75000.
-- The sale with id 5 was an Audi A6 vehicle saled on day 7 of month 7(July) with a price tag of 90000.
-- The sale with id 6 was an Audi A7 vehicle saled on day 15 of month 8(August) with a price tag of 120000.
-- The sale with id 7 was an Mercedes CLS vehicle saled on day 2 of month 9(September) with a price tag of 150000.
+```
+{
+  "id": "3",
+  "Brand": "AudiA4",
+  "PurchaseDate": "2022/4/2",
+  "Price": "70000"
+}
+```
 
 4. Then the Result of the calculating function should result in 110000 if month 3(March) is given or 70000 if the given month was 4(April).
 
