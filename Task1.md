@@ -20,7 +20,7 @@ A small local buisness is selling cars in the town. They came to us with a requi
 - The 6 sale was an Audi A7 vehicle saled on the 12 day of month 8(August) with a price tag of 120000.
 - The 7 sale was an Mercedes CLS vehicle saled on the 2nd day of month 9(September) with a price tag of 150000.
 
-4. Then the Result of the calculating functiong should result in 110000 if month 3(March) is given or 70000 if the given month was 4(April).
+4. Then the Result of the calculating function should result in 110000 if month 3(March) is given or 70000 if the given month was 4(April).
 
 - calc_profit(3) -> 110000
 
