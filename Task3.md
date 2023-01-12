@@ -1,4 +1,4 @@
-# Task3 - Bash
+# Task3 - Bash Automation
 
 For each and every new employee in Bosch, there must be an unique Bosch ID and email created. 
 Bosch ID is a function of all three name, family name and region, following the pattern below:
