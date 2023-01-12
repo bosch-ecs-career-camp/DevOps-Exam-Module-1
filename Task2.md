@@ -1,4 +1,4 @@
-# Task2 - Pipeline
+# Task2 - Pipeline Implementation
 
 > Please continue with this current task only after [task1](./Task1.md) is finished.
 
