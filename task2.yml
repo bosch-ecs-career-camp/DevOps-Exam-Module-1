@@ -1,0 +1,80 @@
+name: Profit Execution
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      Month:
+        type: Manual Choice
+        description: Month of profit to select
+        required: true
+        options: 
+        - 01
+        - 02
+        - 03
+        - 04
+        - 05
+        - 06
+        - 07
+        - 08
+        - 09
+        - 10
+        - 11
+        - 12
+
+
+jobs:
+
+  job1:
+
+    name: "Checkout"
+    runs-on: "ubuntu-latest"
+
+    steps:
+
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+  job2:
+
+    name: "Python Execution"
+    needs: [ job1 ]
+    runs-on: "ubuntu-latest"
+
+    steps:
+
+      - name: Run Python Code
+        shell: bash
+        run: |
+          python main.py --month "${{ github.event.inputs.Month }}"
+
+  job3:
+
+    name: "Archive Artifacts"
+    needs: [ job2 ]
+    runs-on: "ubuntu-latest"
+
+    steps:
+
+      - name: Archive profit Artifact
+        uses: actions/archive-artifact@v1
+        with:
+          path: profit.txt
+
+  job4:
+
+    name: "Development Information"
+    needs: [ job3 ]
+    runs-on: "ubuntu-latest"
+
+    steps:
+
+      - name: Display development information
+        shell: bash
+        run: |
+          echo ${{ github.head_ref }}
+          echo ${{ github.actor }}
+          echo ${{ github.triggering_actor }}
+          echo ${{ github.os }}
+          echo ${{ github.arch }}
+          echo ${{ github.workspace }}

@@ -1,0 +1,12 @@
+For Month January The Profit of the CarShop is 100000
+For Month February The Profit of the CarShop is 50000
+For Month March The Profit of the CarShop is 300000
+For Month April The Profit of the CarShop is 100000
+For Month May The Profit of the CarShop is 50000
+For Month June The Profit of the CarShop is 10000
+For Month July The Profit of the CarShop is 50000
+For Month August The Profit of the CarShop is 100000
+For Month September The Profit of the CarShop is 50000
+For Month October The Profit of the CarShop is 10000
+For Month November The Profit of the CarShop is 50000
+For Month December The Profit of the CarShop is None
